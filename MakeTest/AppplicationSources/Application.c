@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-    return (0); // 0 => success !
+    return (1); // 0 => success !
 }
 
